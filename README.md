@@ -1,2 +1,2 @@
 #!/bin/bash
-This repo contains some other basic shell redirection commandssuch as stdin
+This is my first repository for this project
